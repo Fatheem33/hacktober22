@@ -1,12 +1,11 @@
 # include <stdio.h>
 # include <stdlib.h>
 
-int main()
+void main()
 {
 
     system("clear");
-    printf("hello");
-    return 1;
+    printf("HELLO WORLD !!!");
 }
 
 
